@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: Recursive Stage Discovery for Early Warning in Multi-Sensor Degradation Monitoring
+message: If you use this software, please cite the associated article.
+authors:
+  - family-names: Ahmed
+    given-names: Imtiaz
+    affiliation: New Mexico Institute of Mining and Technology
+  - family-names: Soliman
+    given-names: Hamdy
+    affiliation: New Mexico Institute of Mining and Technology
+license: MIT
+year: 2026
